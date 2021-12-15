@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/zm-card-ui',
   themeConfig: {
     sidebar: [
       '/',
