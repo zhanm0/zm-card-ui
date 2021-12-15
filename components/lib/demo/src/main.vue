@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="zm-demo">demo</h1>
+    <h1 class="zm-demo">demo1</h1>
   </div>
 </template>
 
