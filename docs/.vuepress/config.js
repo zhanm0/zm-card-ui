@@ -8,6 +8,3 @@ module.exports = {
     ]
   }
 }
-
-
-git remote set-url origin https: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@github.com/zhanm0/zm-card-ui.git
